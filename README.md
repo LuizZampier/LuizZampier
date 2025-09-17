@@ -12,15 +12,15 @@ My name is Luiz Zampier, i'm 21 years old and i'm currently live in Curitiba/Bra
 
 ## 
 
-<div>
-  <a href="https://github.com/LuizZampier">
+<div align="center">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizZampier&theme=neon&hide_border=false">
+  <br>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizZampier&layout=compact&langs_count=16&theme=dracula">
 </div>
     
 <br>
 
-<div style="display: inline-block">
+<div style="display: inline-block" align="center">
   <img align="center" height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />     
   <img align="center" height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
