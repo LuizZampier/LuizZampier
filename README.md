@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-My name is Luiz Zampier, i'm 21 years old and i'm currently live in Curitiba/Brazil. I'm finishing my graduation in Software Engineering at Unicesumar, doing extension courses at Rocketseat. Always searching to improve myself and get updated in new technologies. My hobbies is games, music and swimming.
+### My name is Luiz Zampier, i'm 21 years old and i'm currently live in Curitiba/Brazil. I'm finishing my graduation in Software Engineering at Unicesumar, doing extension courses at Rocketseat. Always searching to improve myself and get updated in new technologies. My hobbies is games, music and swimming.
 
 <div>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBnptrnlhtLJsJkLXKnqnGztzSMTVsZxfDrkRVjKVBgxNRKTThpqsZQvCWRgVBWlbDwMGrM"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
